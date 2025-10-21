@@ -11,7 +11,7 @@ const corsOptions = {
   origin: [
     'http://localhost:3000',           // Desarrollo local
     'http://127.0.0.1:5500',           // Live Server
-    'https://cipherchat.vercel.app',   // TU DOMINIO DE VERCEL (cámbialo después)
+    'https://cipherchat-frontend.vercel.app',   // TU DOMINIO DE VERCEL (cámbialo después)
     // Agrega tu dominio real de Vercel aquí después del despliegue
   ],
   credentials: true,
